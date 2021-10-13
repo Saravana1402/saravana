@@ -21,7 +21,7 @@
 .profile-pic
 {
 	position:absolute;
-	background:transparent url('profile.jpg') no-repeat;
+	background:transparent url('profile.jpeg') no-repeat;
 	background-size: cover;
 	height:150px;
 	width:150px;
